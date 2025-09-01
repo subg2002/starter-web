@@ -1,8 +1,7 @@
-# Starter Web Repo
+#starter-web
 
-This repository is for showing how Git and GitHub work
-## Introductin
-## Purpose
-##How to contribute
+##Introduction
 
-Sample website with plenty of files for demos
+##Purpose
+
+##how to contribute
